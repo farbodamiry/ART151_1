@@ -1,0 +1,39 @@
+body{
+  background: url(https://cdn.hipwallpaper.com/m/75/79/xsTdqA.jpg)
+}
+h1{
+  font-family: 'Bangers',cursive;
+  font-size: 35;
+  color: yellow;
+  text-align: center;
+  text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
+.AngryText{
+  font-family: 'Bangers',cursive;
+  font-size: 25;
+  text-align: center;
+  text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+  position: absolute;
+  visibility: visible;
+  left: 670px;
+  top: 300px;
+  z-index: 200;
+  color: yellow;
+}
+.AngrySans{
+  position: absolute;
+  visibility: visible;
+  left: 900px;
+  top: 750px;
+  z-index: 200;
+}
+.AngrySans2{
+  position: absolute;
+  visibility: visible;
+  left: 400px;
+  top: 750px;
+  z-index: 200;
+}
+.AngryText:hover{
+  color: Red;
+}

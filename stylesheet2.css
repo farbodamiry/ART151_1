@@ -1,0 +1,24 @@
+body{
+  position: relative;
+  background: url(https://giffiles.alphacoders.com/105/105210.gif);
+  width: 1920px;
+  height: 1080px;
+}
+.SadSans{
+  position: absolute;
+  left: 600px;
+  top: 150px;
+  z-index: 200;
+}
+.SadText{
+  font-family: 'Thasadith', sans-serif;
+  font-size: 21;
+  text-align: center;
+  color: blue;
+  text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+  position: absolute;
+  left: 700px;
+  top: 470px;
+  z-index: 200;
+
+}

@@ -1,0 +1,71 @@
+div.a{
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
+div.b{
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
+div.c{
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
+div.d{
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
+div.e{
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
+div.f{
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
+h1{
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
+div.a:hover{
+  color: white;
+  text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
+div.b:hover{
+  color: white;
+  text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
+div.c:hover{
+  color: white;
+  text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
+div.d:hover{
+  color: white;
+  text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
+div.e:hover{
+  color: white;
+  text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
+div.f:hover{
+  color: white;
+  text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
+h1:hover{
+  color: white;
+  text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
+.Sans{
+  Width: 200px;
+  height: 200px;
+}
+.Nextone{
+  background: transparent;
+  border: none !important;
+  font-size: 12;
+  color: Red;
+  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+body{
+  background-image: url(https://media1.tenor.com/images/e22c97a33040972a92e51e7f9180aad9/tenor.gif?itemid=14860983);
+  background-color: #00FFFF
+}
